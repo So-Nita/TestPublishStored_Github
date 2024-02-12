@@ -1,0 +1,6 @@
+@PublishStoredGithub_HostAddress = http://localhost:5269
+
+GET {{PublishStoredGithub_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
